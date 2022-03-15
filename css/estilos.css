@@ -1,0 +1,28 @@
+body {
+	font-family: Verdana;
+	margin:  0;
+}
+
+a {
+	color: #003050;
+	text-decoration: underline;
+}
+a:hover {
+	color:  #00A5B6;
+}
+
+.contenedor {
+	text-align: center;
+}
+
+#titulo {
+	color: #00A5B6;
+}
+
+#descripcion {
+	color:  grey;
+}
+
+#copy {
+	color: #003050;
+}
